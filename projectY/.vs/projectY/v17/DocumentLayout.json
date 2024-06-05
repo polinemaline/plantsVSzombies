@@ -1,0 +1,773 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\oop\\projectY\\projectY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:controllers\\publisherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\projecty.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:projecty.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\manager\\managerpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\managerpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\manager\\managerauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\managerauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\manager\\imanagerauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\imanagerauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\manager\\imanagerpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\imanagerpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\data\\booktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:data\\booktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\manager\\managerbookingbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\managerbookingbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\models\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:models\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\models\\year.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:models\\year.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\manager\\managergenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\managergenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\manager\\managertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\managertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\manager\\imanagertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\imanagertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\manager\\managerbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\managerbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\controllers\\yearscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:controllers\\yearscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\manager\\manageryear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\manageryear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\manager\\imanageryear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\imanageryear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\manager\\manageruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\manageruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\manager\\imanageruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\imanageruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\controllers\\typescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:controllers\\typescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\manager\\imanagergenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\imanagergenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\controllers\\bookingbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:controllers\\bookingbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\manager\\imanagerbookingbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\imanagerbookingbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\manager\\imanagerbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:manager\\imanagerbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\models\\bookingbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:models\\bookingbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\entities\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:entities\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\entities\\bookingbookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:entities\\bookingbookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\entities\\authorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:entities\\authorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\entities\\yearentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:entities\\yearentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\entities\\typeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:entities\\typeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\entities\\genreentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:entities\\genreentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|c:\\oop\\projecty\\projecty\\migrations\\20240605200709_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1F3D11-2BA7-4287-833E-328B82798406}|projectY.csproj|solutionrelative:migrations\\20240605200709_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 471,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20240605200709_Base.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Migrations\\20240605200709_Base.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240605200709_Base.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Migrations\\20240605200709_Base.cs",
+              "RelativeToolTip": "Migrations\\20240605200709_Base.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAJcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:07:09.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PublishersController.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Controllers\\PublishersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PublishersController.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Controllers\\PublishersController.cs",
+              "RelativeToolTip": "Controllers\\PublishersController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:52:54.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IManagerPublisher.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Manager\\IManagerPublisher.cs",
+              "RelativeDocumentMoniker": "Manager\\IManagerPublisher.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Manager\\IManagerPublisher.cs",
+              "RelativeToolTip": "Manager\\IManagerPublisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:34:18.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IManagerAuthor.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Manager\\IManagerAuthor.cs",
+              "RelativeDocumentMoniker": "Manager\\IManagerAuthor.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Manager\\IManagerAuthor.cs",
+              "RelativeToolTip": "Manager\\IManagerAuthor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:28:48.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManagerAuthor.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Manager\\ManagerAuthor.cs",
+              "RelativeDocumentMoniker": "Manager\\ManagerAuthor.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Manager\\ManagerAuthor.cs",
+              "RelativeToolTip": "Manager\\ManagerAuthor.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:30:41.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAEsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:34:18.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "projectY.csproj",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\projectY.csproj",
+              "RelativeDocumentMoniker": "projectY.csproj",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\projectY.csproj",
+              "RelativeToolTip": "projectY.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T16:17:10.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManagerPublisher.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Manager\\ManagerPublisher.cs",
+              "RelativeDocumentMoniker": "Manager\\ManagerPublisher.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Manager\\ManagerPublisher.cs",
+              "RelativeToolTip": "Manager\\ManagerPublisher.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:39:12.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:11:54.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Models\\Publisher.cs",
+              "RelativeDocumentMoniker": "Models\\Publisher.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Models\\Publisher.cs",
+              "RelativeToolTip": "Models\\Publisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:28:48.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:16:22.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Models\\Genre.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Models\\Genre.cs",
+              "RelativeToolTip": "Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:03:04.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookType.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Data\\BookType.cs",
+              "RelativeDocumentMoniker": "Data\\BookType.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Data\\BookType.cs",
+              "RelativeToolTip": "Data\\BookType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:46:14.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManagerBookingBook.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Manager\\ManagerBookingBook.cs",
+              "RelativeDocumentMoniker": "Manager\\ManagerBookingBook.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Manager\\ManagerBookingBook.cs",
+              "RelativeToolTip": "Manager\\ManagerBookingBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:47:41.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:59:13.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Year.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Models\\Year.cs",
+              "RelativeDocumentMoniker": "Models\\Year.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Models\\Year.cs",
+              "RelativeToolTip": "Models\\Year.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:01:50.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Author.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Models\\Author.cs",
+              "RelativeToolTip": "Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:01:33.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwCAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:01:15.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Type.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Models\\Type.cs",
+              "RelativeDocumentMoniker": "Models\\Type.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Models\\Type.cs",
+              "RelativeToolTip": "Models\\Type.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:02:05.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IManagerType.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Manager\\IManagerType.cs",
+              "RelativeDocumentMoniker": "Manager\\IManagerType.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Manager\\IManagerType.cs",
+              "RelativeToolTip": "Manager\\IManagerType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:55:25.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManagerType.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Manager\\ManagerType.cs",
+              "RelativeDocumentMoniker": "Manager\\ManagerType.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Manager\\ManagerType.cs",
+              "RelativeToolTip": "Manager\\ManagerType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:57:39.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ManagerGenre.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Manager\\ManagerGenre.cs",
+              "RelativeDocumentMoniker": "Manager\\ManagerGenre.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Manager\\ManagerGenre.cs",
+              "RelativeToolTip": "Manager\\ManagerGenre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:53:42.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwE0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:07:01.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IManagerYear.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Manager\\IManagerYear.cs",
+              "RelativeDocumentMoniker": "Manager\\IManagerYear.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Manager\\IManagerYear.cs",
+              "RelativeToolTip": "Manager\\IManagerYear.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:23:12.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ManagerYear.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Manager\\ManagerYear.cs",
+              "RelativeDocumentMoniker": "Manager\\ManagerYear.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Manager\\ManagerYear.cs",
+              "RelativeToolTip": "Manager\\ManagerYear.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:17:42.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "YearsController.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Controllers\\YearsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\YearsController.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Controllers\\YearsController.cs",
+              "RelativeToolTip": "Controllers\\YearsController.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAAAAN4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:45:36.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T20:28:18.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ManagerBook.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Manager\\ManagerBook.cs",
+              "RelativeDocumentMoniker": "Manager\\ManagerBook.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Manager\\ManagerBook.cs",
+              "RelativeToolTip": "Manager\\ManagerBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:40:40.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ManagerUser.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Manager\\ManagerUser.cs",
+              "RelativeDocumentMoniker": "Manager\\ManagerUser.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Manager\\ManagerUser.cs",
+              "RelativeToolTip": "Manager\\ManagerUser.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAswEYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:02:04.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IManagerUser.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Manager\\IManagerUser.cs",
+              "RelativeDocumentMoniker": "Manager\\IManagerUser.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Manager\\IManagerUser.cs",
+              "RelativeToolTip": "Manager\\IManagerUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:00:57.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:02:43.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TypesController.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Controllers\\TypesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TypesController.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Controllers\\TypesController.cs",
+              "RelativeToolTip": "Controllers\\TypesController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAYwE4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:05:41.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GenresController.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "Controllers\\GenresController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwE0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:03:29.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IManagerGenre.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Manager\\IManagerGenre.cs",
+              "RelativeDocumentMoniker": "Manager\\IManagerGenre.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Manager\\IManagerGenre.cs",
+              "RelativeToolTip": "Manager\\IManagerGenre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:51:12.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BookingBooksController.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Controllers\\BookingBooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingBooksController.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Controllers\\BookingBooksController.cs",
+              "RelativeToolTip": "Controllers\\BookingBooksController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwEwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:00:28.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IManagerBookingBook.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Manager\\IManagerBookingBook.cs",
+              "RelativeDocumentMoniker": "Manager\\IManagerBookingBook.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Manager\\IManagerBookingBook.cs",
+              "RelativeToolTip": "Manager\\IManagerBookingBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:45:32.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IManagerBook.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Manager\\IManagerBook.cs",
+              "RelativeDocumentMoniker": "Manager\\IManagerBook.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Manager\\IManagerBook.cs",
+              "RelativeToolTip": "Manager\\IManagerBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:38:29.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BookingBook.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Models\\BookingBook.cs",
+              "RelativeDocumentMoniker": "Models\\BookingBook.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Models\\BookingBook.cs",
+              "RelativeToolTip": "Models\\BookingBook.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:02:29.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BookEntity.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Entities\\BookEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\BookEntity.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Entities\\BookEntity.cs",
+              "RelativeToolTip": "Entities\\BookEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:03:00.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-30T15:46:44.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BookingBookEntity.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Entities\\BookingBookEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\BookingBookEntity.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Entities\\BookingBookEntity.cs",
+              "RelativeToolTip": "Entities\\BookingBookEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:04:49.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AuthorEntity.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Entities\\AuthorEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\AuthorEntity.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Entities\\AuthorEntity.cs",
+              "RelativeToolTip": "Entities\\AuthorEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:01:24.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "YearEntity.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Entities\\YearEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\YearEntity.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Entities\\YearEntity.cs",
+              "RelativeToolTip": "Entities\\YearEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:09:09.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\UserEntity.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "Entities\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:06:44.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TypeEntity.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Entities\\TypeEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\TypeEntity.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Entities\\TypeEntity.cs",
+              "RelativeToolTip": "Entities\\TypeEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:06:02.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GenreEntity.cs",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\Entities\\GenreEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\GenreEntity.cs",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\Entities\\GenreEntity.cs",
+              "RelativeToolTip": "Entities\\GenreEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:05:25.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\oop\\projectY\\projectY\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\oop\\projectY\\projectY\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T20:28:22.881Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
